@@ -12,7 +12,7 @@ labels:
 summary: "Dedication as a full orchestra to learn new challenging music"
 ---
 
-<img class="img-fluid" src="../img/ParadeOfOrchestra.jpg">
+<img width="200px src="../img/ParadeOfOrchestra.jpg">
 
 Parade of Orchestras is a noncompetitive festival held in April, where grade school and full orchestra ensembles from Hawaii participate. Two adjudicators provide comments and ratings for all performers. This event offers a great opportunity for each group to  perform in a formal setting, receive professional feedback, and watch other schools showcase their talents.
 
