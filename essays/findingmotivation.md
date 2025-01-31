@@ -9,7 +9,8 @@ labels:
   - TypeScript
 ---
 
-![Description](img/typescript.jpg)
+<img src="images/typescript.jpg" alt="TypeScript">
+
 Any learning concept in the world comes with its own challenges, but the effort is always worth it. Whether it’s learning different programming languages, a new instrument, or a second language, each pursuit adds meaningful value to life. These experiences inspired me to believe that I am capable of achieving so much more.
 
 ## Experiences
