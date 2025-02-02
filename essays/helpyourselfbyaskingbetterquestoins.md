@@ -6,10 +6,10 @@ title: "Help Yourself by Asking Better Questions"
 date: 2025-02-01
 published: true
 labels:
-  - smart questions
+  - Smart questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" img src="../img/question.jpg">
+<img width="200px" class="rounded float-start pe-4" img src="../img/question.png">
 
 Image Source: [Pixabay](https://pixabay.com/illustrations/question-question-mark-response-1015308/)
 
