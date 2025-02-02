@@ -11,6 +11,8 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" img src="../img/typescript.jpg">
 
+Image Source:[Gabriel Heinzer](https://unsplash.com/photos/text-g5jpH62pwes)
+
 Any learning concept in the world comes with its own challenges, but the effort is always worth it. Whether it’s learning different programming languages, a new instrument, or a second language, each pursuit adds meaningful value to life. These experiences inspired me to believe that I am capable of achieving so much more.
 
 ## Experiences
