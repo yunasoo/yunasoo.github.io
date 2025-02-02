@@ -9,7 +9,7 @@ labels:
   - TypeScript
 ---
 
-<img width="100px" src="../img/typescript.jpg">
+<img width="200px" src="../img/typescript.jpg">
 
 Image Source: [Gabriel Heinzer](https://unsplash.com/photos/text-g5jpH62pwes)
 
