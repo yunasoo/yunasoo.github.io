@@ -48,7 +48,7 @@ https://stackoverflow.com/questions/63981568/codename-one-get-and-disable-all-co
 ## Example of an Lacking Question
 No one can answer a question effectively if they are expected to know what another person’s code is doing without proper context or visual representation of the issue. It is recommended to use clear formatting to improve code readability, breaking it into multiple lines instead of pasting one long unformatted line mixed into a paragraph. This user on Stack Overflow failed to do so, while asking one question in the title and then a different one in their explanation
 
-'Display.getInstance().sendMessage(new String[] {currentRow.getString(2)}, fileName, m);'
+`Display.getInstance().sendMessage(new String[] {currentRow.getString(2)}, fileName, m);`
 
 Additionally, this user is asking for a direct solution, rather than guidance, without demonstrating any efforts in solving their issue in Codename One. Before asking, the user should have searched for relevant guides and documentation on the Codename One websites. There is a lack of context regarding where the Share Popup is called when sendMessage is issued, what it does, and this relates to turning popup off. Furthermore, the user does not specify what platform they are using or provide a complete description of their issue’s symptoms. As of right now, there are no responses which may indicate that this user’s issue is difficult to solve.
 
