@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/DoodleForGoogle.png
 title: "Doodle For Google 2022"
-date: 2014
+date: 2022
 published: true
 labels:
   - Adobe Illustrator
