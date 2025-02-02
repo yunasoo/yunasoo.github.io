@@ -9,7 +9,7 @@ labels:
   - Smart questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" img src="../img/question.png">
+<img width="200px" src="../img/question.png">
 
 Image Source: [Pixabay](https://pixabay.com/illustrations/question-question-mark-response-1015308/)
 
