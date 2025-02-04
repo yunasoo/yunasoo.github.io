@@ -13,4 +13,4 @@ summary: "A self portrait made out of shapes for my graphic design class back in
 
 <img class="img-fluid" src="../img/shapeselfportrait.png" width="150px" height="150px">
 
-Note: Created under my previous name, Yuna Pondelicek. I now go by Yuna Soo.
+Note: This project was created in 2022 and at the time, my work was credited under Yuna Pondelicek, but I now go by Yuna Soo.
