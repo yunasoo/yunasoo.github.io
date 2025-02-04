@@ -11,4 +11,6 @@ labels:
 summary: "A self portrait made out of shapes for my graphic design class back in highschool 2022."
 ---
 
-<img class="img-fluid" src="../shapeselfportrait.png">
+<img class="img-fluid" src="../shapeselfportrait.png" width="150px" height="150px">
+
+Note: Created under my previous name, Yuna Pondelicek. I now go by Yuna Soo.
