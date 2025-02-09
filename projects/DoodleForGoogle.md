@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/DoodleForGoogle.png
-title: "Doodle For Google 2022"
+title: "Doodle 4 Google 2022"
 date: 2022
 published: true
 labels:
@@ -12,4 +12,3 @@ summary: "A doodle for google assignment for my graphic design class back in hig
 ---
 
 <img class="img-fluid" src="../img/DoodleForGoogle.png" width="200px" height="150px">
-
