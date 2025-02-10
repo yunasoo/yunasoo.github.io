@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yunasoo", "url": "http://github.com/yunasoo" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/yuna-soo-2433b9347" }
+      { "network": "linkedin", "username": "yunasoo", "url": "http://linkedin.com/in/yuna-soo-2433b9347" }
     ]
   },
   "interests": [
@@ -41,59 +41,49 @@
     {
       "institution": "President William McKinley High School, Honolulu, HI",
       "area": "High School Diploma",
-      "studyType": "Culinary",
+      "studyType": "Culinary, Orchestra, Graphic Design, Introduction to programing",
       "startDate": "2019-08-07",
       "endDate": "2023-05-21",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "courses": [ 
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "McKinley High School Orchestra, Honolulu, HI",
+      "website": "https://www.instagram.com/mckinleyhsbao/",
+      "position": "2nd chair violinist, Section Leader",
+      "startDate": "2019-08-07",
+      "endDate": "2023-05-21",
+      "summary": "Guide the violin section and play together in an Orchestra as a whole",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Orginally started playing violin in 2017 up until 2023 (6 years)",
+        "Started as a 2nd violinist and worked my way up to a 1st violinist, 2nd chair and section leader"
+      ]
+    },
+    {
+      "organization": "McKinley High School Crochet & Knit Club, Honolulu, HI",
+      "position": "Club member",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Crochet & Knit beginner friendly club",
+      "highlights": [
+        "Learned how to crochet, connect with other students, and help create projects for funraising events"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2023-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Foundation Scholarship Honoring Dr. Raymond and Carol Yap",
+      "date": "2023",
+      "awarder": "McKinley High School Foundation",
+      "summary": "Scholarships awarded to graduating seinors who maintain a high GPA, strong academic achievement, leadership, community service, and in financial need."
     }
   ],
   "references": [
