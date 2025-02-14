@@ -23,3 +23,6 @@ ESLint is a useful tool that applies coding standards while coding on a platform
 
 ## My Experience with ESLint
 When I started using VSCode with ESLint, I was impressed by how useful the tool really was. Previously, when coding on other platforms or writing code by hand, I found that working without an assistant made the process more challenging leading to self doubt. It’s like writing code blindly without understanding my own work. However, while ESLint was really helpful, I was struggling with syntax errors and warnings which prevented me from testing my code. Despite the challenges, I understood the importance of coding standards and how I can use them to improve my code.
+
+
+Used Chat GPT for grammer improvements
