@@ -11,9 +11,9 @@ labels:
   - VSCode
 ---
 
-<img width="200px" src="../img/typescript.jpg">
+<img width="200px" height="100px" src="../img/eslint-logo-color.png">
 
-Image Source: [Gabriel Heinzer](https://unsplash.com/photos/text-g5jpH62pwes)
+Image Source: [ESLint]([https://unsplash.com/photos/text-g5jpH62pwes](https://eslint.org/))
 
 ## Importance of Coding Standards
 When it comes to learning a new programming language, there are many features to consider. Usually when you learn something new, there would be multiple examples for understanding a topic. It is important for those examples to be clear and easy to follow. Enforcing coding standards is a valuable habit. It is like a guideline or a style that is beneficial for yourself and other developers. Coding standards enhance code readability, clarity, consistency, and maintainability. Additionally, when debugging or modifying code, well structured code makes it easier to identify and solve issues efficiently.
