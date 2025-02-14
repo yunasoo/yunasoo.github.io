@@ -11,7 +11,7 @@ labels:
   - VSCode
 ---
 
-<img width="230px" height="100px" src="../img/eslint-logo-color.png">
+<img width="250px" height="100px" src="../img/eslint-logo-color.png">
 
 Image Source: [ESLint](https://eslint.org/)
 
