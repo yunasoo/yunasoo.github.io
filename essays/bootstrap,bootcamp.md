@@ -12,8 +12,8 @@ labels:
   - Software Engineering
 ---
 
-<img width="360px" height="200px" src="../img/plainHTML.png">
-<img width="360px" height="200px" src="../img/bootstrapHTML.png">
+<img width="365px" height="200px" src="../img/plainHTML.png">
+<img width="365px" height="200px" src="../img/bootstrapHTML.png"><br>
 (left image: web page using plain HTML, right image: same web page using Bootstrap 5)
 
 ## Analogy
