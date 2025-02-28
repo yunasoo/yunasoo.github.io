@@ -12,8 +12,8 @@ labels:
   - Software Engineering
 ---
 
-<img width="350px" height="200px" src="../img/plainHTML.png">
-<img width="350px" height="200px" src="../img/bootstrapHTML.png">
+<img width="360px" height="200px" src="../img/plainHTML.png">
+<img width="360px" height="200px" src="../img/bootstrapHTML.png">
 (left image: web page using plain HTML, right image: same web page using Bootstrap 5)
 
 ## Analogy
@@ -27,5 +27,9 @@ Bootstrap 5, a UI framework, offers software developers a collection of pre-buil
 
 For example, instead of setting up different sections one at a time for a navigation bar, developers can use a few class names from Bootstrap 5 for the same results.
 
-## Personal Experience
-During my experience of using Bootstrap 5, I wanted to create navigation bars. I was amazed by the output of a visually functioning HTML page and the difficulty because it would’ve been more difficult to create all the same features from scratch. It is very frustrating but a good learning experience, more practice with Bootstrap 5 will make the experience a lot more enjoyable. The images attached are one of my attempts to recreate a section of a website which didn’t use Bootstrap 5, with Bootstrap 5. The one on the left is the original, the one on the right is my recreation. Even though they still look very different, I got some hands-on experience along with learning new features.
+## Disadvantages of UI Frameworks
+Since UI frameworks provide pre-built components, they have only a limited amount of design features meaning that the flexibility is not too great. This would limit the developer’s ability to customize certain areas if they are going for a unique layout. This also means that many web pages look the same, a navigation bar holding the web page name, links, search bars, a footer on the bottom containing a company’s contact information and subscription. 
+
+ Another drawback is poor performance rate due to file sizes taking up more space. UI frameworks come with a full library of their features which may take up unnecessary space if some part of it is not needed. It's inconvenient to wait for the full library to load when you are just trying to run a small project. With bigger projects, the loading time would be longer.
+
+One of the biggest challenges is learning the syntax, design patterns, conventions, and structure. It feels just as hard as learning a new programming language. You can’t really use a UI framework if you don’t know what to code and not understand how to use it. It takes a lot of time to learn, practice, and to get in the habit and familiarity of it.
