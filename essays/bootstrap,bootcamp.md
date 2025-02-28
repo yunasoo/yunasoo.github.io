@@ -14,6 +14,7 @@ labels:
 
 <img width="300px" height="150px" src="../img/plainHTML.png">
 <img width="300px" height="150px" src="../img/bootstrapHTML.png">
+(left image: web page using plain HTML, right image: same web page using Bootstrap 5)
 
 ## Analogy
 Creating a website from scratch would be tedious as you mess around with margins, shapes, formats, and so on, that you just wished that there is already something that you can type and it can just implement everything. An analogy would be like baking a cake from scratch versus using cake flour sold at supermarkets. Baking a cake from scratch takes more time, work, and more procedures, so cake flour became a thing to make it easier to bake a cake from home still having an acceptable quality. Using plain HTML and CSS is the same thing, it can get very messy, long and inconvenient. But with Bootstrap 5, a UI framework, it serves as the cake flour, to help implement the long and difficult step. 
