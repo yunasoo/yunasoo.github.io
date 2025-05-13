@@ -20,3 +20,8 @@ Even though there were times where my estimates were off, there is a benefit tha
 
 ## Benefits for Tracking Actual Effort
 Tracking me and my teammate’s efforts was a good idea as it brought a few benefits and something to learn from. The reality of how long I took made me realize how many tasks I could really handle in a week's time period and what skills I need to work on. Using this information from each milestone, me and my teammates were able to plan out our issues in advance. By the second milestone, we still had to cut off a few extra things from our plan and focused on our main issues in the third milestone.
+
+There were a few new things I had to learn in order to deploy our final project so recording the amount of time I took to do them helped me plan what I need to watch out for next time. I never expected Vercel to catch errors and bugs I never heard or seen before, so working on solving those errors was another issue created along the way as well as more time needed to be spent on the project.
+
+## Method for Tracking Actual Effort
+I tracked my actual effort by using a stopwatch on my phone. I found it better that way than having another tab open on my computer because it could blend in, get lost, get in the way, and take up more memory making my computer run slower while I was working and handling errors in my code. I often check the clock in the corner of my screen to get an idea how long I'm taking while I work. I feel like my tracking was pretty accurate because every time I needed to get up to do something else I could easily pause the timer and resume at the time I left off. That way I could avoid making mistakes while calculating the time interval from one start time to some time in the middle, and to an end time.
