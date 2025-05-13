@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The Use of AI"
+title: "Estimation and Tracking"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-012
+date: 2025-05-12
 published: true
 labels:
-  - Estimatin
+  - Estimation
   - Tracking
-  - Learning Opportunity
 ---
 
 ## Making Effort Estimates
