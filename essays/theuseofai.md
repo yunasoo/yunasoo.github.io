@@ -42,3 +42,19 @@ While we were practicing functional programming in typescript playground, instea
 When it came to fixing the bugs and errors in my teammate’s code for the final project, I was confused on how they were able to write the logic part of their code without coming across the errors that I was getting from my end. I wasn’t sure what their code meant so when I was asking ChatGPT to explain the errors I was getting, it would always first explain what the code is trying to do and the reason why it gave that error. After that it would write or revise the code so that it solves the problem. As it writes the code, it also helps document the code by writing comments on the side of what changed and only sometimes write comments of what the code does. Instead it would usually explain the code after it is done writing it. The null session error that I had before, was because of a certain way my teammate wrote the code. Following the code that ChatGPT wrote where I had to create a new file and define the session there, everything worked and the error was gone. After I understood what the code does, I would document the code and add comments in myself.
 
 Most of my interactions with ChatGPT were copying and pasting my error messages and my code. For this example, I was confused about how to resolve an ESLint error. I ask ChatGPT “Where do I put the parentheses in this ESLint error? Here is my code:”:
+```
+Missing parentheses around multilines JSXeslintreact/jsx-wrap-multilines (property) JSX.IntrinsicElements.td: DetailedHTMLProps<TdHTMLAttributes<HTMLTableDataCellElement>, HTMLTableDataCellElement>
+
+const EventItem = ({ id, name, description, location, month, day, year, host, isOwner}:EventItemProps) => (
+  <tr>
+    <td>{day}</td>
+    <td>{name}</td>
+    <td>{description}</td>
+    <td>{location}</td>
+    <td>{host}</td>
+    {isOwner && <td>
+      <Link href={/editevent/${id}}>Edit</Link>
+      </td>}
+  </tr>
+);
+```
