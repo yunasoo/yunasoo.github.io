@@ -81,12 +81,17 @@ At first, I tried to add the parentheses myself, put the tags on a new line, and
 ```
 ### Other uses in ICS 314
 There were many extra credit opportunities in ICS 314 as it was a way for us to bring up our grade by more learning and practice concepts we have learned. When we were learning how to use React, we made a basic tic-tac-toe board by following a tutorial. For extra credit, there was a list of challenges we can work through to add more features to our tic-tac-toe board. We were given a few hints on how to do them but it was still a bit difficult since we have no guide. ChatGPT was really helpful in explaining what needed to be used and why it works. Instead of being left more confused while attempting these challenges, the use of AI was helpful with expanding my capabilities. 
+<br><br>
 
 ## Impact on Learning and Understanding
 ---
 The incorporation of AI influenced my learning experience to be more enjoyable. If I did not understand how to do anything, I become unmotivated because trying to do something that you don’t know how to do leads to no progress which feels pointless. If I did know how to do something, attempting to do something becomes more interesting, making me want to learn more. Using ChatGPT has enhanced but also challenged my understanding of software engineering concepts. The way you can make AI explain and teach you concepts in a certain way impacts my learning comprehension in a positive way. It is really good at explaining and creating examples personalized to you. Your skills develop as you engage in a conversation with AI since you could interact by asking questions, implementing your code, and coming back to it for more questions to ask. Problem-solving abilities not so much since it just tells and explains to you what you should change in your code as a solution to fixing an error. But it does make you recognize the same error if you get it again and then now you would know how to resolve it. If anything, given the clues the error message gives you, you could ask ChatGPT for another hint for you to look at to try to fix the problem yourself. 
 
 ChatGPT also makes searching for answers more convenient because its interaction and memorization feature make it easier to ask your questions to it rather than writing a whole paragraph or a piece of code into a Google search bar. Sometimes what it says could be wrong so Google is still useful to search up the answers that ChatGPT gives to make sure it is the same as the many reliable sources say.
+<br><br>
 
 ## Practical Applications
 ---
+A practical application in the real-world is Microsoft incorporating Github Copilot into Visual Studio Code. Many developers use this tool to help them code more productively. Github Copilot adapts to your development workflow and suggests code snippets based on your existing code while you type. It is also customizable so it can suggest code following your coding practices. I have not used this tool myself since I want to get more practice making up code on my own first. I have seen my classmates and a few professors use this tool and another feature that I saw that seems really convenient is that Github Copilot would highlight error messages in red on the same line where that error occurs in their code making it more easy to spot and read. The use of AI while coding makes the convenience of coding effective. As files of your project gets bigger, AI can assist developers by keeping track of their code.
+<br><br>
+
