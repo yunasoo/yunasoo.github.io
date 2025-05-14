@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Use of AI"
+title: "The Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
@@ -9,6 +9,10 @@ labels:
   - AI
   - ChatGPT
 ---
+
+<img width="200px" src="../img/chatgpt.png">
+
+Image Source: [hatchwise]([https://pixabay.com/illustrations/question-question-mark-response-1015308/](https://www.hatchwise.com/resources/the-complete-history-of-the-chatgpt-logo))
 
 ## Introduction
 The role of AI in education is a tool that students can utilize for learning assistance. It's almost like a 24 hour remote tutor. Although we shouldn’t heavily rely and fully believe what AI tells us (nothing is perfect), the functionality of it being interactive and personalized tailored to each unique individual is useful. Students have different ways of learning at different speeds, so using AI will be useful as it helps students with personalized study methods and advice.
