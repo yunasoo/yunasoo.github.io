@@ -77,6 +77,6 @@ At first, I tried to add the parentheses myself, put the tags on a new line, and
 )}
 ```
 ### Other uses in ICS 314
-
+There were many extra credit opportunities in ICS 314 as it was a way for us to bring up our grade by more learning and practice concepts we have learned. When we were learning how to use React, we made a basic tic-tac-toe board by following a tutorial. For extra credit, there was a list of challenges we can work through to add more features to our tic-tac-toe board. We were given a few hints on how to do them but it was still a bit difficult since we have no guide. ChatGPT was really helpful in explaining what needed to be used and why it works. Instead of being left more confused while attempting these challenges, the use of AI was helpful with expanding my capabilities. 
 
 ## Impact on Learning and Understanding
