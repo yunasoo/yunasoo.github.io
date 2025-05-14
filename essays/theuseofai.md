@@ -10,7 +10,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="200px" src="../img/chatgpt.png">
+<img width="250px" src="../img/chatgpt.png">
 
 Image Source: [hatchwise]([https://pixabay.com/illustrations/question-question-mark-response-1015308/](https://www.hatchwise.com/resources/the-complete-history-of-the-chatgpt-logo))
 
