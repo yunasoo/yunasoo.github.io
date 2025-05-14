@@ -23,8 +23,10 @@ In ICS 314, I use ChatGPT to help me figure out why I’m getting errors and bug
 
 
 ## Personal Experience with AI
+### Experience WODs
 When I was doing the experience WODs I mainly used AI such as ChatGPT for syntax errors because I would usually already have a plan in my head on what to do but to type the actual code, the syntax of it slows me down. Once I get a bit familiar with it, I would try to avoid using ChatGPT to practice and remember the syntax. For example, E18: Experience Functional Programming 1, was when we first learned how to implement different function calls, I had a basic understanding of what the function calls do, but I needed some help trying to piece everything together. 
 
+### In-class Practice WODs & In-class WODs
 The same goes for In-class Practice WODS and In-class WODs. For In-class Practice WODs, I had to be at the same pace with my groupmates and since we couldn’t look at each other's screens, it made it a bit more difficult to discuss the syntax. This was mostly when we were using typescript playground. For In-class WODs, when we started using Visual Studio Code, I had a difficult time with resolving ESLint and Prettier errors because I had no idea what the errors were talking about which occasionally had me exceed the DNF time limit. Even with the help of ChatGPT then, I was still a bit confused. For example, it was one of the In-class Murphys using Next.js, there was something wrong with one of the files that was downloaded from the npx install. Another example was battling against the double and single quote errors.
 
 When I write essays, I usually end up writing overly long sentences which may most likely confuse the reader just as it confuses myself. Luckily with the help of AI, ChatGPT could understand me when I just list all of my thoughts down. It then organizes my thoughts into sentences or a paragraph, and after I read it, I try again to write all of my thoughts into my essay in my own words. Since I could understand what I was trying to say, it was easier to write more clearly. One example is my essay on reflecting on coding standards. I had an idea what ESLint was but I wasn’t sure how to make my words clearly related to the topic.
@@ -58,3 +60,12 @@ const EventItem = ({ id, name, description, location, month, day, year, host, is
   </tr>
 );
 ```
+At first, I tried to add the parentheses myself, put the tags on a new line, and adjust the indents but VSCode just kept complaining about every single thing that I did. So I thought it would just be easier to copy and paste in the correct formatting and this is what ChatGPT gave with no additional problems:
+``` 
+{isOwner && (
+  <td>
+    <Link href={`/editevent/${id}`}>Edit</Link>
+  </td>
+)}
+```
+ ## Impact on Learning and Understanding
