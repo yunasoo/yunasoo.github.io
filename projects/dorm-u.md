@@ -30,3 +30,6 @@ I worked mostly on deploying and consistently updating our web application to Ve
 
 ## Links
 ---
+[DormU Github Organization](https://github.com/dorm-u)
+[DormU Homepage](https://dorm-u.github.io/)
+[DormU Webpage](https://dorm-u-app.vercel.app/)
