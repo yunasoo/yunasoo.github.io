@@ -10,6 +10,9 @@ labels:
   - Open Source Software Development
   - Coding Standards
 ---
+<img width="250px" src="../img/github-logo.jpeg">
+
+Image Source: [hatchwise](https://www.vecteezy.com/vector-art/16833872-github-logo-git-hub-icon-on-white-background)
 
 ## Beyond Web Application Development
 ---
