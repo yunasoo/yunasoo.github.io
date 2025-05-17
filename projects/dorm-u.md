@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/dormu-logo.png
 title: "Dorm-U"
-date: 2023
+date: 2025
 published: true
 labels:
   - Web application
