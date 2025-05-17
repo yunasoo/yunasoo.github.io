@@ -12,7 +12,7 @@ labels:
 
 <img width="250px" src="../img/chatgpt.png">
 
-Image Source: [hatchwise]([https://pixabay.com/illustrations/question-question-mark-response-1015308/](https://www.hatchwise.com/resources/the-complete-history-of-the-chatgpt-logo))
+Image Source: [hatchwise](https://www.hatchwise.com/resources/the-complete-history-of-the-chatgpt-logo)
 
 ## Introduction
 ---
