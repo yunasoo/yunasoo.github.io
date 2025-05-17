@@ -27,9 +27,11 @@ I worked mostly on deploying and consistently updating our web application to Ve
 
 ## What I learned
 ---
+I learned about project management, team communication skills, collaboration, problem solving, estimation and tracking, time management, and the fundamentals of deploying projects with Vercel. Live server management, database systems, and connection URLs concepts was a completely new unique experience for me as it gave me insight to how real world software applications work. I found out that code may work on someone else's computer but not others even though we have the same exact files so it was a bit difficult trying to fix the code that it works on everyone’s end. I got the opportunity to combine all of my knowledge into one big project connected and functioning all together. Even though this project was not fully completed, it challenged my abilities beyond what I know, pushing myself outside of my comfort zone. I realized what skills and actions I was capable of and know what I need to work on. Time management taught me the need to constantly stay on top of things and to make use of the team meeting times for more project planning and to update and discuss with each other about what problems we come across in our code.
+<br><br>
 
 ## Links
 ---
-[DormU Github Organization](https://github.com/dorm-u)
-[DormU Homepage](https://dorm-u.github.io/)
-[DormU Webpage](https://dorm-u-app.vercel.app/)
+- [DormU Github Organization](https://github.com/dorm-u)
+- [DormU Homepage](https://dorm-u.github.io/)
+- [DormU Webpage](https://dorm-u-app.vercel.app/)
